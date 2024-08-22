@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5daeccb9-ccec-4022-a150-f6b618503cc0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.EcoSculptor/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.EcoSculptor/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animals_FREE/Animations/Deer/Deer CTRL.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animals_FREE/Animations/Deer/Deer CTRL.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animals_FREE/Animations/Deer/deer_deer_death.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animals_FREE/Animations/Deer/deer_deer_death.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animals_FREE/Animations/Deer/deer_deer_eat.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animals_FREE/Animations/Deer/deer_deer_eat.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animals_FREE/Animations/kurt/kurt2-animasyonlar/Wolf CTRL.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animals_FREE/Animations/kurt/kurt2-animasyonlar/Wolf CTRL.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animals_FREE/Animations/kurt/kurt2-animasyonlar/dog_test_wolf-attack.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animals_FREE/Animations/kurt/kurt2-animasyonlar/dog_test_wolf-attack.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animals_FREE/Animations/kurt/kurt2-animasyonlar/dog_test_wolf-death.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animals_FREE/Animations/kurt/kurt2-animasyonlar/dog_test_wolf-death.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animals_FREE/Animations/kurt/kurt2-animasyonlar/dog_test_wolf-eat.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animals_FREE/Animations/kurt/kurt2-animasyonlar/dog_test_wolf-eat.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetPacks/Bear/Bear_Prefabs/BearAnimator.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AssetPacks/Bear/Bear_Prefabs/BearAnimator.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ML-Agents/Timers/Ege 2_timers.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ML-Agents/Timers/Ege 2_timers.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ML-Agents/Timers/Main Scene_timers.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ML-Agents/Timers/Main Scene_timers.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Animals/Hunters/AlfaHunters/Bear.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Animals/Hunters/AlfaHunters/Bear.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Animals/Hunters/WeakestHunter/Wolf.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Animals/Hunters/WeakestHunter/Wolf.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Animals/Preys/Deer.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Animals/Preys/Deer.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Animals/TrainingMap.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Animals/TrainingMap.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Tiles/grasses.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Tiles/grasses.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Ege 2.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Ege 2.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Animals/AlphaHunterAnimal.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Animals/AlphaHunterAnimal.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Animals/FoodManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Animals/FoodManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Animals/HunterAnimal.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Animals/HunterAnimal.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Animals/PreyAnimal.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Animals/PreyAnimal.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Animals/AlphaHunterAnimal.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Animals/DeerAreaCollider.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Animals/FoodManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/HexGrid.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ml-agents@2.0.1/Runtime/Actuators/ActionSegment.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ml-agents@2.0.1/Runtime/Agent.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2d3eU644gA5aYuy1bc1dXSbiiiW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;rider.external.source.directories&quot;: [
+      &quot;C:\\Users\\egeoz\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\DecompilerCache&quot;,
+      &quot;C:\\Users\\egeoz\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\SourcesCache&quot;,
+      &quot;C:\\Users\\egeoz\\AppData\\Local\\Symbols\\src&quot;
+    ]
+  }
+}</component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2021.3.16f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-projectPath C:\Users\ozgun\OneDrive\Belgeler\GitHub\ceng-407-408-2023-2024-EcoSculptor\EcoSculptor -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\ozgun\OneDrive\Belgeler\GitHub\ceng-407-408-2023-2024-EcoSculptor\EcoSculptor" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unit Tests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2021.3.16f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath C:\Users\ozgun\OneDrive\Belgeler\GitHub\ceng-407-408-2023-2024-EcoSculptor\EcoSculptor -testResults Logs/results.xml -testPlatform EditMode -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\ozgun\OneDrive\Belgeler\GitHub\ceng-407-408-2023-2024-EcoSculptor\EcoSculptor" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5daeccb9-ccec-4022-a150-f6b618503cc0" name="Changes" comment="" />
+      <created>1709241203492</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709241203492</updated>
+      <workItem from="1709241205308" duration="1548000" />
+      <workItem from="1709320478471" duration="3910000" />
+      <workItem from="1709331820933" duration="1316000" />
+      <workItem from="1709375460306" duration="8555000" />
+      <workItem from="1709484585926" duration="5084000" />
+      <workItem from="1709563641991" duration="6267000" />
+      <workItem from="1709575040950" duration="10000" />
+      <workItem from="1709990466254" duration="3411000" />
+      <workItem from="1710068354002" duration="10637000" />
+      <workItem from="1710087002485" duration="7395000" />
+      <workItem from="1710363366164" duration="3023000" />
+      <workItem from="1710463403927" duration="1526000" />
+      <workItem from="1710503179241" duration="346000" />
+      <workItem from="1710514782610" duration="31000" />
+      <workItem from="1710591795446" duration="4326000" />
+      <workItem from="1710614762872" duration="5271000" />
+      <workItem from="1710673431702" duration="1193000" />
+      <workItem from="1711187896469" duration="2547000" />
+      <workItem from="1711888870902" duration="8323000" />
+      <workItem from="1712937404034" duration="1318000" />
+      <workItem from="1714311792841" duration="2768000" />
+      <workItem from="1714823233254" duration="1426000" />
+      <workItem from="1714921368020" duration="2566000" />
+      <workItem from="1715449435921" duration="847000" />
+      <workItem from="1715453196273" duration="4241000" />
+      <workItem from="1715517088352" duration="63000" />
+      <workItem from="1715517266232" duration="1047000" />
+      <workItem from="1715853161300" duration="12302000" />
+      <workItem from="1715941405673" duration="116000" />
+      <workItem from="1715941571046" duration="3094000" />
+      <workItem from="1716403031290" duration="322000" />
+      <workItem from="1716832121503" duration="1879000" />
+      <workItem from="1716900002467" duration="24905000" />
+      <workItem from="1716984192185" duration="3994000" />
+      <workItem from="1716988295076" duration="5763000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="Both" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
